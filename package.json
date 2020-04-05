@@ -67,7 +67,7 @@
         "vscode": "^1.1.33"
     },
     "dependencies": {
-        "@types/request-promise-native": "^1.0.15",
+        "@types/request-promise-native": "^1.0.17",
         "liquidjs": "^8.1.0",
         "request-promise-cache": "^2.0.1"
     }
